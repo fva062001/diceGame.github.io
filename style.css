@@ -1,0 +1,44 @@
+body{
+    text-align: center !important;
+    background-color: #f7f7f7 !important ; 
+    overflow: hidden;
+}
+
+img{
+    width: 25vw;
+    height: auto;
+}
+
+
+h1{
+    margin-top: 40px !important;
+    margin-bottom: 60px !important;
+    font-weight: bold !important;
+}
+
+#p1{
+    text-align: end;
+}
+
+#player1{
+    margin-right: 30px;
+}
+
+#p2{
+    text-align: start;
+}
+
+#player2{
+    margin-left: 30px;
+}
+button{
+    margin-top: 50px !important;
+}
+footer{
+    margin-top: 30px !important;
+}
+
+.main-div{
+    width: auto !important;
+    height: auto !important;
+}
